@@ -21,9 +21,9 @@ function SQIscore = SQI(OD1,OD2,oxy,dxy,Fs)
 %%% signal segments recorded with Artinis devices (OxyMon, OctaMon, Brite23, Brite24)
 %%%
 %%% This script makes use of the following functions:
-%%% detrend - from Matlab Data Import and Analysis toolbox
-%%% ft_preprproc_bandpassfilter - from Fieldtrip toolbox (https://github.com/fieldtrip/fieldtrip)
-%%% xcorr - from Matlab Signal Processing toolbox
+%%% detrend                         - from Matlab Data Import and Analysis toolbox
+%%% ft_preprproc_bandpassfilter     - from Fieldtrip toolbox (https://github.com/fieldtrip/fieldtrip)
+%%% xcorr                           - from Matlab Signal Processing toolbox
 %%%
 %%% Version 0.1, copyright (c) by Artinis Medical Systems http://www.artinis.com. 
 %%% Last modified on 08-24-2020
@@ -39,13 +39,13 @@ function SQIscore = SQI(OD1,OD2,oxy,dxy,Fs)
 
 %%%% Setting algorithm parameters
 % Thresholds for features in rating stages one and two
-thrUp_intensity=2.5;
-thrLow_intensity=0.04;
-thr_sumHbratio=1.95;
-thr_acorrDiffODs=0.025;
+thrUp_intensity     = 2.5;
+thrLow_intensity    = 0.04;
+thr_sumHbratio      = 1.95;
+thr_acorrDiffODs    = 0.025;
 % Slope and intercept for score conversion in rating stage three
-slope=1.796;
-intercept=0.846;
+slope       = 1.796;
+intercept   = 0.846;
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%  RATING STAGE ONE: Identifying very low quality signals %%%%%%%%%%
