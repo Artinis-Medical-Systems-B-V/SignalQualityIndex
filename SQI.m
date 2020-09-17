@@ -28,7 +28,7 @@ function SQIscore = SQI(OD1,OD2,oxy,dxy,Fs)
 %%% Version 0.1, copyright (c) by Artinis Medical Systems http://www.artinis.com. 
 %%% Last modified on 08-24-2020
 %%% Authors: Sofia Sappia (sofia@artinis.com) and Naser Hakimi (naser@artinis.com) 
-%%% Cite as: Sappia, Hakimi, Colier, Horschig (Submitted to NeuroImage): 
+%%% Cite as: Sappia, Hakimi, Colier, Horschig (Submitted for peer review): 
 %%% "Signal Quality Index: an algorithm for quantitative assessment of
 %%% functional near infrared spectroscopy signal quality"
 %%%

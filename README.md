@@ -4,7 +4,7 @@ The Signal Quality Index (SQI) algorithm is a novel tool for quantitatively asse
 2) Identifying very high quality signals. 
 3) Signal quality rating. 
 
-For more details, see Sappia, Hakimi, Colier, Horschig (Submitted to NeuroImage): "Signal Quality Index: an algorithm for quantitative assessment of functional near infrared spectroscopy signal quality".
+For more details, see Sappia, Hakimi, Colier, Horschig (Submitted for peer review): "Signal Quality Index: an algorithm for quantitative assessment of functional near infrared spectroscopy signal quality".
 
 
 
