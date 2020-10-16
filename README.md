@@ -4,7 +4,8 @@ The Signal Quality Index (SQI) algorithm is a novel tool for quantitatively asse
 2) Identifying very high quality signals. 
 3) Signal quality rating. 
 
-For more details, see Sappia, Hakimi, Colier, Horschig (Submitted for peer review): "Signal Quality Index: an algorithm for quantitative assessment of functional near infrared spectroscopy signal quality".
+For more details, see Sappia*, Hakimi*, Colier, Horschig (Submitted for peer review): "Signal Quality Index: an algorithm for quantitative assessment of functional near infrared spectroscopy signal quality". 
+* These authors contributed equally to this work.
 
 This project received funding from the European Union’s Horizon 2020 Framework Program under grant agreements No. 813234 (RHUMBO) and No. 813843 (INFANS). This study was also funded by the European Fund for Regional Development (EFRO) and the Dutch provinces Gelderland and Overijssel (PROJ-00872).
 
