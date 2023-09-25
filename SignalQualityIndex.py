@@ -21,7 +21,7 @@ def SQI(OD1, OD2, oxy, dxy, Fs):
     kaiserord, firwin, filtfilt, detrend, correlate, windows - from scipy.signal Python library
     std, log, sum, abs, concatenate, zeros - from numpy Python library
 
-    Version 0.1, copyright (c) by Artinis Medical Systems http://www.artinis.com.
+    Version 1.0, copyright (c) by Artinis Medical Systems http://www.artinis.com.
     Last modified on 31-01-2023
     Author: Naser Hakimi (naser@artinis.com)
 
