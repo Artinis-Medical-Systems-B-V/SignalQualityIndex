@@ -25,7 +25,7 @@ function SQIscore = SQI(OD1,OD2,oxy,dxy,Fs)
 %%% ft_preprproc_bandpassfilter     - from Fieldtrip toolbox (https://github.com/fieldtrip/fieldtrip)
 %%% xcorr                           - from Matlab Signal Processing toolbox
 %%%
-%%% Version 0.1, copyright (c) by Artinis Medical Systems http://www.artinis.com. 
+%%% Version 1.0, copyright (c) by Artinis Medical Systems http://www.artinis.com. 
 %%% Last modified on 08-24-2020
 %%% Authors: Sofia Sappia (sofia@artinis.com) and Naser Hakimi (naser@artinis.com) 
 %%% Cite as: Sappia, Hakimi, Colier, Horschig (Submitted for peer review): 
